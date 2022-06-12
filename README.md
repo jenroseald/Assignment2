@@ -17,6 +17,7 @@ Overall Initial insights:
 -	Average mean deaths are low compared to average case numbers.
 -	Distribution looks skewed - upper quartile is close to max.
 -	When using describe(), the count result does not provide valuable insight as it only counts rows of data.
+
 Gibraltar subset observations:
 -	The Gibraltar Intermediate Region Code is set to Zero - is this correct?
 -	Vaccination data does not start until 11 January 2021.
