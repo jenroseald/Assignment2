@@ -4,6 +4,7 @@ Summary observations of case and vaccination data
 Two different csv files were analysed as part of week 2, course 2 assignment activity:
 -	cases.csv
 -	vaccinated.csv
+
 The cases file contains does not appear to contain a primary key / unique identifier. Within the vaccination file, the date can be used as a primary key. As no index was specified when both files were read into DataFrames, python auto created unique identifier indexes for both data sets.
 Both data sets were inspected in terms of their shape, size and type
 Both the cases and vaccinated DataFrames have 7584 rows. The cases DataFrame has 12 columns and the vaccinated DataFrame has 11 columns. Data types consist of objects, floats and integers.
